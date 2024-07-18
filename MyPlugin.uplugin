@@ -2,11 +2,11 @@
 	"FileVersion": 3,
 	"Version": 1,
 	"VersionName": "1.0",
-	"FriendlyName": "%FRIENDLY_NAME%",
-	"Description": "%DESCRIPTION%",
-	"Category": "%CATEGORY%",
-	"CreatedBy": "%CREATED_BY%",
-	"CreatedByURL": "%CREATED_BY_URL%",
+	"FriendlyName": "MyPlugin",
+	"Description": "MyPlugin",
+	"Category": "MyPlugin",
+	"CreatedBy": "MyPlugin",
+	"CreatedByURL": "",
 	"DocsURL": "",
 	"MarketplaceURL": "",
 	"SupportURL": "",
@@ -16,7 +16,7 @@
 	"Installed": true,
 	"Modules": [
 		{
-			"Name": "%NAME%",
+			"Name": "MyPlugin",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		}
