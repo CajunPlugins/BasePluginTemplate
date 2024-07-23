@@ -2,5 +2,5 @@
 
 To replace the name:
 ```bash
-curl -s https://git.new/TfpiiGc | bash -s MyActualPlugin
+curl -s https://git.new/TfpiiGc | bash
 ```
